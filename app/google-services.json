@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "823325533429",
+    "firebase_url": "https://wisatakuy-baf6d.firebaseio.com",
+    "project_id": "wisatakuy-baf6d",
+    "storage_bucket": "wisatakuy-baf6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823325533429:android:32496dcb8f3c5215",
+        "android_client_info": {
+          "package_name": "com.gdn.wisatakuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823325533429-ccs8lbenjh0tucpsprv58cjvrtq78uvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP6Ib2AbwTgQaKyHh4kyB-_GOw44R6SoU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

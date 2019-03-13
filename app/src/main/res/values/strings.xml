@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Wisatakuy</string>
+    <string name="app_copy">wisatakuy\u00a92019</string>
+    <string name="about">Tentang Kami</string>
+    <string name="check_detail">Cek Lengkap</string>
+    <string name="login_failed">Data yang dimasukkan tidak sesuai</string>
+    <string name="logout">Logout</string>
+    <string name="gmaps_key">AIzaSyClHK3v_wpdTrYevrPjtjz6xBNHi1KxZOA</string>
+
+    <!-- app -->
+    <string name="name">Nama</string>
+    <string name="description">Deskripsi</string>
+    <string name="address">Alamat</string>
+    <string name="user_notfound">User tidak ditemukan</string>
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="password">Password</string>
+    <string name="not_have_account">Belum punya akun?</string>
+    <string name="have_account">Sudah punya akun?</string>
+    <string name="home">Beranda</string>
+    <string name="account">Akun</string>
+    <string name="email">E-mail</string>
+    <string name="surename">Nama Lengkap</string>
+    <string name="no_data">Data tidak tersedia</string>
+</resources>
